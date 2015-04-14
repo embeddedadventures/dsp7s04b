@@ -1,5 +1,5 @@
-
-#include "dsp7s04.h"
+#include <Wire.h>
+#include <dsp7s04b.h>
 
 //
 // Sample program to demonstrate communicating with DSP-7S04B display
