@@ -1,6 +1,6 @@
 /*
 
-Copyright (c) 2015, Embedded Adventures, www.embeddedadventures.com
+Copyright (c) 2016, Embedded Adventures, www.embeddedadventures.com
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
