@@ -1,6 +1,6 @@
 /*
 
-Copyright (c) 2015, Embedded Adventures, www.embeddedadventures.com
+Copyright (c) 2016, Embedded Adventures, www.embeddedadventures.com
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -44,7 +44,7 @@ Contact us at source [at] embeddedadventures.com
 #include <Wire.h>
 #include <inttypes.h>
 
-#define EA_DSP7S04_ADDR_DEFAULT 50
+#define EA_DSP7S04_ADDR_DEFAULT 0x32
 
 #define uns8 unsigned char
 #define uns16 unsigned int
